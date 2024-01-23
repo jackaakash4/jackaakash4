@@ -3,8 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aakash-shrestha-b00526209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-shrestha-b00526209" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jackaakash4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-shrestha-b00526209" height="30" width="40" /></a>
 <a href="https://instagram.com/jackaakash4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jackaakash4" height="30" width="40" /></a>
+  <a href="https://x.com/jackaakash4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jackaakash4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
