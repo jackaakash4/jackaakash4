@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">Turning Ideas into Reality: A Frontend Developer on a Mission to Bring Websites to Life</h3>
+<h3 align="center">A Computer Science Prodigy</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
